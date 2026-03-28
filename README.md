@@ -51,11 +51,16 @@ i am a girl -> so my pronouns are she/her. :3
 
 👽 skills / learning badges : 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![Networking](https://img.shields.io/badge/-Networking-00A6FB?style=flat-square&logo=internet-explorer&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)  
+![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![c](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+![networking](https://img.shields.io/badge/-Networking-00A6FB?style=flat-square&logo=internet-explorer&logoColor=white)  
+![cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)  
+
+---
+😏 my github stats :
+
+pending -> i cannot figure out how to import them into here ... they'll be here soon ! 
 
 ---
 
