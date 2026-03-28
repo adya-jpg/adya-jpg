@@ -2,7 +2,7 @@
 
 ### my name is adya, username aveonaa.
 
-i'm a high school student by day and an aspiring ethical hacker, python, c and javascript learner by day and night, and also probably the coolest person and coder you know.
+i'm a high school student by day and an aspiring ethical hacker, python, c and javascript learner by day and night, and also probably the coolest person and programmer you know.
 
 i am a girl -> so my pronouns are she/her. :3
 
