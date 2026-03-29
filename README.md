@@ -20,6 +20,7 @@ i am a girl -> so my pronouns are she/her. :3
 - build tools that teach and help me understand security
 - become a penetration tester / security researcher
 - share what I learn through github and maybe a blog i'll link if i remember !
+- learn how to code ! in different languages and efficiently.
 
 ---
 
