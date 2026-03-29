@@ -2,13 +2,13 @@
 
 ### my name is adya, username aveonaa.
 
-i'm a high school student by day and an aspiring ethical hacker, python, c and javascript learner by day and night, and also probably the coolest person and programmer you know.
+i'm a high school student by day and an aspiring ethical hacker, python, c and java learner by night (and day), and also probably the on of the coolest people and programmers you know.
 
-i am a girl -> so my pronouns are she/her. :3
+i am a girl -> so my pronouns are she/her. 
 
 ---
 
-👾 currently exploring : 
+currently exploring : 
 - ethical hacking & cybersecurity fundamentals
 - python & c programming
 - linux & networking basics
@@ -16,7 +16,7 @@ i am a girl -> so my pronouns are she/her. :3
 
 ---
 
-💖 my goals :
+my goals :
 - build tools that teach and help me understand security
 - become a penetration tester / security researcher
 - share what I learn through github and maybe a blog i'll link if i remember !
@@ -24,14 +24,14 @@ i am a girl -> so my pronouns are she/her. :3
 
 ---
 
-⭐ projects in progress :
+projects in progress :
 - random python scripts
 - simple network tools -> they're taking some time :P
 - c-based memory exercises -> still learning so ... they are extremely simple.
 
 ---
 
-✨ i am currently part of :
+i am currently part of :
 - first robotics -> as a programmer
 - my school band and my city's teen tour band
 - and my school's math team
@@ -40,7 +40,7 @@ i am a girl -> so my pronouns are she/her. :3
 
 ---
 
-🔥 fun facts about me :
+fun facts about me :
 - i am an infj-t 5w6.
 - i play many instruments, but my main 2 are : flute and piano.
 - my favourite subjects are mathematics, music, languages and physics.
@@ -50,7 +50,7 @@ i am a girl -> so my pronouns are she/her. :3
 
 ---
 
-👽 skills / learning badges : 
+skills / learning badges : 
 
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![c](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
@@ -59,13 +59,14 @@ i am a girl -> so my pronouns are she/her. :3
 ![cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)  
 
 ---
-😏 my github stats :
+
+my github stats :
 
 pending -> i cannot figure out how to import them into here ... they'll be here soon ! 
 
 ---
 
-🤖 connect with me :
+connect with me :
 - github (which ur already on) : [https://github.com/aveonaa](url)
 - spotify (listen to my playlists) : [https://open.spotify.com/user/31zy523hl5kndta2lamsjongsxfa?si=fbb398984e804fe3](url)
 
