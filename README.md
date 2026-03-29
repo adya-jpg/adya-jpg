@@ -41,7 +41,7 @@ i am currently part of :
 ---
 
 fun facts about me :
-- i am an infj-t 5w6.
+- i am an intj-t 5w6.
 - i play many instruments, but my main 2 are : flute and piano.
 - my favourite subjects are mathematics, music, languages and physics.
 - i am a trilingual, and am learning my 4th language.
