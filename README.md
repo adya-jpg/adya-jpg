@@ -1,86 +1,56 @@
-## hello world !
+# adya
 
-### my name is adya, username aveonaa.
+I like understanding how things work.
 
-i'm a high school student by day and an aspiring ethical hacker, python, c and java learner by night (and day), and also probably the on of the coolest people and programmers you know.
+Most projects start with:
 
-i am a girl -> so my pronouns are she/her. 
+"wait, why does that work?"
 
----
+and end with:
 
-currently exploring : 
-- ethical hacking & cybersecurity fundamentals
-- python & c programming
-- linux & networking basics
-- tryhackme / hack the box challenges
+"well now I've accidentally learned three unrelated subjects, including approximately half of kanji (which I WILL forget in the next three days) for absolutely no reason."
 
----
+## Current Interests
 
-my goals :
-- build tools that teach and help me understand security
-- become a penetration tester / security researcher
-- share what I learn through github and maybe a blog i'll link if i remember !
-- learn how to code ! in different languages and efficiently.
+- Robotics
+- Electronics
+- Programming
+- System design
+- AI
+- Reverse engineering concepts
 
----
+## Skills
 
-projects in progress :
-- random python scripts
-- simple network tools -> they're taking some time :P
-- c-based memory exercises -> still learning so ... they are extremely simple.
+- Python
+- Java
+- HTML/CSS
+- Problem solving
+- Finding edge cases (more commonly known as "loopholes")
+- Turning simple questions into research projects
 
----
+## Philosophy
 
-i am currently part of :
-- first robotics -> as a programmer
-- my school band and my city's teen tour band
-- and my school's math team
-- karate -> i'm a blue belt, and i'm working hard towards my black belt :)
-- i guess i am a literal code ninja
+> "I don't need sleep, I need answers."
 
----
+## Current Status
 
-fun facts about me :
-- i am an intj-t 5w4.
-- i play many instruments, but my main 2 are : flute and piano.
-- my favourite subjects are mathematics, music, languages and physics.
-- i am a trilingual, and am learning my 4th language.
-- i'm alWAYS daydreaming, reading, listening to music or all of the above.
-- and yes i can capitalize ! i just choose not to. (it's for the aesthetic.)
+Researching something while ignoring my schoolwork because I already did it in advance so I could be researching something.
 
----
+Alternatively, I could be quoting quantum mechanical theories at my friends, unironically.
 
-skills / learning badges : 
+Or I could be sleeping.
 
-![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![c](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-![linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![networking](https://img.shields.io/badge/-Networking-00A6FB?style=flat-square&logo=internet-explorer&logoColor=white)  
-![cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF0000?style=flat-square&logo=hackthebox&logoColor=white)  
+Probably, researching though.
 
----
+## Fun Fact
 
-my github stats :
+A surprising number of projects started because I asked:
 
-pending -> i cannot figure out how to import them into here ... they'll be here soon ! 
+"how hard could it be?"
 
----
 
-connect with me :
-- github (which ur already on) : [https://github.com/aveonaa](url)
-- spotify (listen to my playlists) : [https://open.spotify.com/user/31zy523hl5kndta2lamsjongsxfa?si=fbb398984e804fe3](url)
+## Current Research Topic Stats
 
-<!--
-**aveonaa/aveonaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current understanding of the topic: 95%.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Confidence in that understanding: 37%.
