@@ -1,6 +1,6 @@
 # adya
 
-I like understanding how things work.
+I am a professional procastinator and I like understanding how things work.
 
 Most projects start with:
 
