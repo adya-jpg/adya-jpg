@@ -54,3 +54,5 @@ A surprising number of projects started because I asked:
 Current understanding of the topic: 95%.
 
 Confidence in that understanding: 37%.
+
+(P.S. if you couldn't tell I'm an INTP-T 5w4.)
