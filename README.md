@@ -42,4 +42,4 @@ maybe one day I'll become a professor.
 
 or maybe I'll just keep learning for as long as I can.
 
-because somewhere, something incredible is still waiting to be known. ( yes, that's a quote by Carl Sagan. )
+because somewhere, something incredible is still waiting to be known.
