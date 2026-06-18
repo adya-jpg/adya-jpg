@@ -36,7 +36,7 @@ I like engineering because it lets me give shape to ideas.
 
 I like physics because it keeps reminding me that reality is stranger than intuition.
 
-I'm also an INFJ, which probably explains why I spend as much time wondering *why* things work as I do figuring out *how* they work.
+I'm also an INFP, which probably explains why I spend as much time wondering *why* things work as I do figuring out *how* they work.
 
 maybe one day I'll become a professor.
 
