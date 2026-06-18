@@ -55,4 +55,4 @@ Current understanding of the topic: 95%.
 
 Confidence in that understanding: 37%.
 
-(P.S. if you couldn't tell I'm an INTP-T 5w4.)
+(P.S. if you couldn't tell I'm an INFJ-T 5w4.)
