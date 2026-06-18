@@ -1,58 +1,41 @@
-# adya
+#hi.
 
-I am a professional procastinator and I like understanding how things work.
+do you ever look up at the night sky and think:
 
-Most projects start with:
+how did we figure any of this out?
 
-"wait, why does that work?"
+not just that the stars exist
+but that we know what they’re made of, how far away they are, how old they’ve been shining…
 
-and end with:
+without ever touching them.
 
-"well now I've accidentally learned three unrelated subjects, including approximately half of kanji (which I WILL forget in the next three days) for absolutely no reason."
+only through light that travelled for years just to reach us.
 
-## Current Interests
+it makes me wonder what else is out there, still waiting to be understood.
 
-- Robotics
-- Electronics
-- Programming
-- System design
-- AI
-- Reverse engineering concepts
+things we’ve named.
+things we haven’t.
+and things we haven’t even imagined yet.
 
-## Skills
+wormholes. white holes. tachyons.
+or ideas that don’t fit into language yet.
 
-- Python
-- Java
-- HTML/CSS
-- Problem solving
-- Finding edge cases (more commonly known as "loopholes")
-- Turning simple questions into research projects
+and I think I’d like to be there when some of them start to make sense.
 
-## Philosophy
+---
 
-> "I don't need sleep, I need answers."
+anyways,
 
-## Current Status
+i’m a high school student on an FRC team.
 
-Researching something while ignoring my schoolwork because I already did it in advance so I could be researching something.
+this github is where I keep projects, experiments, and the occasional proof that I’m learning as I go (and occasionally learning by breaking things first).
 
-Alternatively, I could be quoting quantum mechanical theories at my friends, unironically.
+i like engineering because it lets me give shape to ideas.
 
-Or I could be sleeping.
+i like physics because it keeps reminding me that reality is stranger than intuition.
 
-Probably, researching though.
+maybe one day I’ll become a professor.
 
-## Fun Fact
+or maybe I’ll just keep learning for as long as I can.
 
-A surprising number of projects started because I asked:
-
-"how hard could it be?"
-
-
-## Current Research Topic Stats
-
-Current understanding of the topic: 95%.
-
-Confidence in that understanding: 37%.
-
-(P.S. if you couldn't tell I'm an INFJ-T 5w4.)
+because somewhere, something incredible is still waiting to be known.
